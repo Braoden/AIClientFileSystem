@@ -1,3 +1,11 @@
+/* ── Layout ── */
+.cp-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
 /* ── Top bar ── */
 .cp-topbar {
   display: flex;
