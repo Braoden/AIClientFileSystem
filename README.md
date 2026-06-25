@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="icons/1-folder-spark.png" alt="" height="40" align="absmiddle">
+  <img src="icons/1-folder-spark.svg" alt="" height="40" align="absmiddle">
   Client File System
 </h1>
 
